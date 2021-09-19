@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761614409471",
+    "firebase_url": "https://loteriasdominicanas-mrl.firebaseio.com",
+    "project_id": "loteriasdominicanas-mrl",
+    "storage_bucket": "loteriasdominicanas-mrl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761614409471:android:8de1dd4ae223827ceb76ca",
+        "android_client_info": {
+          "package_name": "kiskoo.s.r.l"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761614409471-i2mkof2pu3bteemuoujgil78ngb60as0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi4HZCfw1D2djFP-ZDIf2UrXJqMUMhGig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761614409471-i2mkof2pu3bteemuoujgil78ngb60as0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
